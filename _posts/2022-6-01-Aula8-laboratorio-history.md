@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Aula 8 - Curso Red Hat RHCSA - Laboratório
-date:   2022-06-01 13:59:00 +0530
+date:   2022-01-06 13:59:00 +0530
 categories: Certificação RHCSA
 ---
 
 Laboratório com exercícios similares ao encontrado no exame oficial da certificação Red Hat RHCSA. 
 
+---
 
 ## Print all the commands that you have entered till now in the system from the user student.
 
