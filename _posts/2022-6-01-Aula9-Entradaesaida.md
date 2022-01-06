@@ -6,7 +6,7 @@ date:   2022-01-06 14:30:00 +0530
 
 Neste capítulo vamos aprender sobre redirecionamento de entrada e saída. Este conteúdo é cobrado no exame de certificação Red Hat RHCSA.
 
-# Redirecionamento de entrada e saída
+Vamos falar sobre: Redirecionamento de entrada e saída.
 
 Quando você executa este comando:
 
