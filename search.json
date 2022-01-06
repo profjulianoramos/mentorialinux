@@ -1,6 +1,6 @@
 ---
-layout: null
-sitemap:
+layout: post
+sitemap: sitemap.xml
   exclude: 'yes'
 ---
 [
