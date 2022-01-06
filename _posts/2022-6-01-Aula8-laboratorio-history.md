@@ -7,6 +7,7 @@ categories: Certificação RHCSA
 
 Laboratório com exercícios similares ao encontrado no exame oficial da certificação Red Hat RHCSA. 
 
+
 ## Print all the commands that you have entered till now in the system from the user student.
 
 ```
