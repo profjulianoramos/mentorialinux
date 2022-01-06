@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aula 5 - Curso RHCSA - Comandos básicos de linux
-date:   2022-06-01 08:19:00 +0530
+date:   2022-01-06 08:19:00 +0530
 categories: Curso RHCSA
 ---
 
