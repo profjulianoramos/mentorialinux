@@ -87,7 +87,7 @@ By default, in Red Hat 8, history contains the last 1000 commands. To verify it,
 ## To set the system not to record the history
 
 ```
-\# HISTSIZE=0.
+# HISTSIZE=0.
 ```
 
 From now onwards, the history will not be recorded. Also, the current history will be cleared. To set back the system to record the history, specify the HISTFILESIZE= any number greater than 0.
