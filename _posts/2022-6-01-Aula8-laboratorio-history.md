@@ -77,7 +77,8 @@ By default, in Red Hat 8, history contains the last 1000 commands. To verify it,
 # echo $HISTFILESIZE
 ```
 
-## To remove or delete a line from the history**, use **history –d** and the line number. For example:-
+## To remove or delete a line from the history, use **history –d** and the line number. For example:
+
 ```
 # history –d 42
 # history
