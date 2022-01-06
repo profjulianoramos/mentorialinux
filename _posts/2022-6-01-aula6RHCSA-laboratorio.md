@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aula 6  - Curso RHCSA - Laboratório
-date:   2022-06-01 08:23:00 +0530
+date:   2022-01-06 08:23:00 +0530
 categories: Curso RHCSA
 ---
 
