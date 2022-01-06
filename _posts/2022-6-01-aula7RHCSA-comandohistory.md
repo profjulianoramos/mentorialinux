@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aula 7  - Curso RHCSA - Trabalhando com o History
-date:   2022-06-01 08:30:00 +0530
+date:   2022-01-06 08:30:00 +0530
 categories: Curso RHCSA
 ---
 
