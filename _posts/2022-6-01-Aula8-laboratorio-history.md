@@ -8,6 +8,7 @@ categories: Certificação RHCSA
 Laboratório com exercícios similares ao encontrado no exame oficial da certificação Red Hat RHCSA. 
 
 
+
 # Lab Manual-Working with 'history' command
 
 **Print all the commands that you have entered till now in the system from the user student.**
