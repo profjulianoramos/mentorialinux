@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Aula 9 - Redirecionamento de entrada e saida
-date:   2022-01-06 14:30:00 +0530
+title: Aula 9  - Curso RHCSA - Redirecionamento de entrada e saída
+date:   2022-01-06 15:16:00 +0530
+categories: Curso RHCSA
 ---
 
-Neste capítulo vamos aprender sobre redirecionamento de entrada e saída. Este conteúdo é cobrado no exame de certificação Red Hat RHCSA.
+Aprenda como redirecionar a saída de seus comandos.
 
-Vamos falar sobre: Redirecionamento de entrada e saída.
+Este conteúdo é cobrado no exame de certificação Red Hat RHCSA.
 
 Quando você executa este comando:
 
